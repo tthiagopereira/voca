@@ -1,4 +1,4 @@
-# Laravel + CoreUI: Adminpanel Boilerplate
+# Voca + Laravel + CoreUI: Adminpanel Boilerplate
 
 It is a demo project for demonstrating what can be generated with new 2019 version of [QuickAdminPanel](https://2019.quickadminpanel.com) tool. This boilerplate was fully __generated__, without adding any custom line of code.
 
